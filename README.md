@@ -1,6 +1,6 @@
 # Wael Tarek CV
 
-## My CV coded in flutter frame work, you can change this template with your information to get Scorrable cv and you can upload it on any host servers as web application >>
+## My CV coded in flutter frame work, you can change this template with your information to get Scorrable cv and you can upload it on any host servers as Static web page >>
 
 
 
